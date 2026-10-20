@@ -1,0 +1,55 @@
+================================================================================
+                      MEMORY BANK / STORY CONTEXT LOG
+================================================================================
+
+[01] CURRENT STATE & CONDITIONS
+--------------------------------------------------------------------------------
+- Story Day & Time      : [e.g., Day 3, Night at 21:30]
+- Current Location      : [e.g., Outskirts safehouse, 2nd floor bedroom]
+- Physical & Mental State:
+  * User Character : [e.g., Sprained left arm, exhausted, starting to relax]
+  * AI Character   : [e.g., Vigilant, graze wound on shoulder bandaged]
+- Relationship Status   : [e.g., Shifted from standoff at gunpoint to mutual truce/growing trust]
+
+
+[02] KEY EVENT LOG (CHRONOLOGICAL TIMELINE)
+--------------------------------------------------------------------------------
+(Record major plot beats chronologically so context is never lost)
+
+• [Day 1 - Night]:
+  - User character accidentally kicked open the warehouse door where the AI character was hiding from patrol units.
+  - AI character held User at gunpoint before realizing User was unarmed.
+
+• [Day 2 - Afternoon]:
+  - Both escaped through the drainage tunnels and infiltrated the safehouse.
+  - User character shared their last emergency food rations with the AI character.
+
+• [Day 2 - Night]:
+  - Shared a quiet conversation on the balcony; AI character revealed part of their backstory regarding their former unit's betrayal.
+
+
+[03] PROMISES & AGREEMENTS (CONTRACTS & OBLIGATIONS)
+--------------------------------------------------------------------------------
+- [Promise 1]   : AI character promised not to leave the User behind until they cross the city's red zone.
+- [Agreement 2] : User agreed to hand over the safe key code once they arrive safely at the border.
+
+
+[04] REVEALED SECRETS & CONFIRMED LORE (WHAT IS ALREADY KNOWN)
+--------------------------------------------------------------------------------
+- AI character knows that the User is actually the former assistant to the targeted corporation director.
+- User knows that the scar on the AI character's cheek was caused by their former commander's trap.
+
+
+[05] KEY ITEMS & INVENTORY (CRUCIAL OBJECTS)
+--------------------------------------------------------------------------------
+- Encrypted Audit Drive : Carried by User character inside their jacket pocket.
+- Safehouse Key         : Held by AI character.
+- Backup Handgun (3 rds): Loaned by AI character to User character.
+
+
+[06] EMOTIONAL MILESTONES & SPECIAL NICKNAMES
+--------------------------------------------------------------------------------
+- New Nicknames / Terms of Address : [e.g., AI character now calls User "Rookie" instead of "Intruder"]
+- Memorable Emotional Moments      : [e.g., When User bandaged AI's wound, AI became visibly flustered and looked away]
+
+================================================================================

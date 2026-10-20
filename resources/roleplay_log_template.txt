@@ -1,0 +1,34 @@
+================================================================================
+                           ROLEPLAY LOG / TRANSCRIPT
+================================================================================
+
+[SESSION INFO]
+- Session Folder : [e.g., rp1]
+- User Character : [Name, Gender, Role/Species]
+- AI Character   : [Name, Gender, Role/Species]
+- Setting / World: [Setting Summary / World Rules applied]
+- Initial Premise: [1-2 sentences core scenario setup]
+
+================================================================================
+                               TURN / SCENE LOGS
+================================================================================
+
+--------------------------------------------------------------------------------
+[TURN 01] - [SCENE / MOMENT TITLE]
+--------------------------------------------------------------------------------
+USER INPUT:
+[User's raw or adapted input]
+
+NOVEL NARRATION & DIALOGUE:
+[Full third-person limited prose response with actions, body language, and dialogue]
+
+--------------------------------------------------------------------------------
+[TURN 02] - [SCENE / MOMENT TITLE]
+--------------------------------------------------------------------------------
+USER INPUT:
+[User's input]
+
+NOVEL NARRATION & DIALOGUE:
+[Full prose response]
+
+================================================================================

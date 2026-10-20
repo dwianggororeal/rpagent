@@ -1,0 +1,44 @@
+================================================================================
+                    WORLDBUILDING & UNIVERSE RULES TEMPLATE
+================================================================================
+
+1. WORLD NAME & CORE CONCEPT
+--------------------------------------------------------------------------------
+[World Name, Era/Timeline, and Fundamental Reality Premise]
+
+
+2. SPECIES & INHABITANT PHYSIOLOGY
+--------------------------------------------------------------------------------
+- Physical Appearance & Archetypes:
+  [Upright humanoid posture, head types, skin/fur textures, body features]
+- Inhabitant Biological Rules:
+  [Dietary requirements, physical limitations, medical physiology]
+- Critical Physical Prohibitions / Constraints:
+  [e.g., ABSOLUTELY NO TAILS, NO SCALES, NO WINGS, uniform size ranges, etc.]
+
+
+3. SOCIETY, CULTURE & HARMONY
+--------------------------------------------------------------------------------
+- Language & Cultural Integration:
+  [How societies, languages, and cultural customs function—e.g., 100% identical to modern Earth]
+- Social Equity & Diversity:
+  [Species/class relationships, presence or total absence of discrimination]
+- Professions & Capabilities:
+  [Equal opportunities, physical vs skill-based achievements]
+
+
+4. TECHNOLOGY, MAGIC & ENVIRONMENT
+--------------------------------------------------------------------------------
+- Technological Level:
+  [Modern Earth, Futuristic Sci-Fi, Cyberpunk, Medieval/Low-Tech, Steampunk]
+- Magic / Supernatural Mechanics (if any):
+  [None / Strict hard-magic rules / Psionics]
+- Flora, Fauna & Livestock:
+  [How non-sentient animals, wildlife, and livestock exist in this world]
+
+
+5. IMMUTABLE WORLD LAWS (ABSOLUTE BOUNDARIES)
+--------------------------------------------------------------------------------
+[1-3 non-negotiable rules of this universe that the narrator must never violate under any circumstances]
+
+================================================================================

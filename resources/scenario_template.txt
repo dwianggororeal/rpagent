@@ -1,0 +1,55 @@
+================================================================================
+                    INITIAL SCENARIO TEMPLATE (STORY & SCENARIO SETUP)
+================================================================================
+
+1. CORE PREMISE (The Core Hook)
+--------------------------------------------------------------------------------
+[1-2 sentences summary: Who meets whom, in what situation, and what major conflict is unfolding.]
+
+
+2. TIME, PLACE & ATMOSPHERE (Setting)
+--------------------------------------------------------------------------------
+- Specific Location : [e.g., Underground harbor corridor, abandoned apartment, coffee shop during a storm]
+- Time & Weather    : [e.g., Midnight at 02:00 AM, heavy rain and thick fog]
+- Atmosphere / Mood : [e.g., Tense, cold, frantic, suspenseful, or casual yet awkward]
+
+
+3. INITIAL DYNAMIC (Relationship at the Start)
+--------------------------------------------------------------------------------
+[What is the relationship dynamic between the two characters when the scene begins?
+Examples:
+- Two complete strangers who accidentally collide while fleeing
+- Enemies/rivals forced to take shelter in the same room
+- A victim rescued by a mysterious stranger
+- A superior and subordinate trapped in a sudden crisis]
+
+
+4. INCITING INCIDENT (The Trigger / First Encounter)
+--------------------------------------------------------------------------------
+[What concrete event causes them to meet or ignites this opening scene?
+e.g., One character breaks in wounded, or both are scrambling to secure the same piece of vital evidence.]
+
+
+5. WHY THEY CANNOT WALK AWAY (The Binding Factor)
+--------------------------------------------------------------------------------
+[Why CANNOT they simply leave or walk away from each other right now?
+e.g., The exits are locked from the outside, one holds crucial information the other desperately needs, or they are surrounded by hostile forces.]
+
+
+6. THE STAKES & IMMEDIATE DANGER (High Stakes)
+--------------------------------------------------------------------------------
+- Immediate Danger : [What direct threat happens right now if they fail to act?]
+- High Stakes      : [What catastrophic long-term consequence looms over them if this entire situation fails?]
+
+
+7. SCENE GOAL VS MAIN STORY GOAL (Target & Trajectory)
+--------------------------------------------------------------------------------
+- Immediate Goal   : [What must be resolved within this opening scene? e.g., treat a wound, escape the building, hide the contraband]
+- Main Story Goal  : [Where will their relationship and overarching plot head after this introductory scene?]
+
+
+8. OPENING SCENE SETUP / STARTER PROMPT (First Scene Hook)
+--------------------------------------------------------------------------------
+[Draft a 1-paragraph opening prompt to launch the story/roleplay: describe the initial situation, physical positions of both characters, and the first action that takes place.]
+
+================================================================================
